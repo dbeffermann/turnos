@@ -1,0 +1,13 @@
+Nombre,Rol,Disponibilidad,Atiende Ventanilla,Modificación
+Francia,Asistente,"Lunes (mañana), Martes (mañana)",True,2024-11-07 12:40:57
+Karen,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde)",False,2024-11-07 12:40:57
+Jeniffer,Asistente,"Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana)",False,2024-11-07 12:40:57
+Isabel (comodín),Asistente,"Lunes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana)",True,2024-11-07 12:40:57
+Aracely,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana)",True,2024-11-07 12:40:57
+Ruben,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana), Jueves (mañana), Viernes (mañana)",False,2024-11-07 12:40:57
+Fabian,Asistente,"Lunes (mañana, tarde), Miércoles (mañana), Jueves (mañana), Viernes (mañana)",False,2024-11-07 12:40:57
+Margarita,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana), Jueves (mañana), Viernes (mañana)",False,2024-11-07 12:40:57
+Patricia,Asistente,"Lunes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana)",False,2024-11-07 12:40:57
+-,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana), Jueves (mañana), Viernes (mañana)",False,2024-11-07 12:40:57
+--,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana), Jueves (mañana), Viernes (mañana)",False,2024-11-07 12:40:57
+---,Asistente,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana), Jueves (mañana), Viernes (mañana)",False,2024-11-07 12:40:57

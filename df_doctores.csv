@@ -1,0 +1,11 @@
+Nombre,Rol,Disponibilidad,Atiende Ventanilla,Necesita Asistente,Oficina,Modificación
+Doctor Nicolás,Doctor,"Lunes (mañana), Miércoles (tarde)",False,True,Box 5,2024-11-06 21:28:06
+Doctora Hermosilla,Doctor,"Miércoles (tarde), Jueves (mañana, tarde), Viernes",False,True,Box 5,2024-11-06 21:28:06
+Doctora Beffermann,Doctor,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana), Viernes (mañana)",False,True,Box 3,2024-11-06 21:28:06
+Doctora Goetz,Doctor,"Lunes (mañana), Martes (mañana, tarde), Miércoles (mañana), Jueves (tarde), Viernes (mañana, tarde)",False,False,-,2024-11-06 21:28:06
+Doctor Pino,Doctor,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana), Viernes (mañana, tarde)",False,True,Box 1,2024-11-06 21:28:06
+Doctor Madrid,Doctor,"Lunes (mañana), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana), Viernes (mañana, tarde)",False,False,Box 2,2024-11-06 21:28:06
+Doctor Benavides,Doctor,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana)",False,True,Box 4,2024-11-06 21:28:06
+Doctora Maureira,Doctor,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana, tarde)",False,True,Box 6,2024-11-06 21:28:06
+Doctor Muñoz,Doctor,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana, tarde)",False,True,Box 7,2024-11-06 21:28:06
+Doctora Ortega,Doctor,"Lunes (mañana, tarde), Martes (mañana, tarde), Miércoles (mañana, tarde), Jueves (mañana, tarde), Viernes (mañana, tarde)",False,True,Box 8,2024-11-06 21:28:06
